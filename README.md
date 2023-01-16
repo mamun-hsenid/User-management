@@ -17,3 +17,7 @@ ___
 * Open the project from the local repository
         
 * run "mvn jetty:run" to run the server 
+
+* trying to have resolve to solve
+
+* are you ready to resolve
