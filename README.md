@@ -10,10 +10,12 @@ ___
 
 * Clone the project from the main branch from github repository
 
-* install Java JDK
+* Install Java JDK
         
-* install IntelliJ IDEA or any other IDEA
+* Install IntelliJ IDEA or any other IDEA
         
 * Open the project from the local repository
         
-* run "mvn jetty:run" to run the server 
+* Run "mvn jetty:run" to run the server 
+
+* Modify code to update according to features needed
